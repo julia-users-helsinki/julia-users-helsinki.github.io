@@ -26,7 +26,7 @@ We will have our first meet up on **Wednesday 21 September 2022 in Otaniemi**. E
 **Schedule**
 
 - **16:00 -- 16:15** People arriving
-- **16:15 -- 16:45**: Invited talk (details coming soon)
+- **16:15 -- 16:45**: Invited talk: [Fabricio Oliveira](https://www.aalto.fi/fi/ihmiset/fabricio-oliveira), Aalto University, *title TBA*
 - **16:45 -- 17:30**: Free hang out, introducing each others, exchanging ideas interests etc. (coffee and cake available)
 - **17:30**: (Self-paid!!) dinner at Fat Lizard for those who want
 
