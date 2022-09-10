@@ -21,9 +21,9 @@ The latter allows you to plug in values that you would have defined here.
 @def title       = "Julia Users Helsinki"
 @def prepath     = ""
 @def description = """
-                   Webpage for Julia users meet up in Helsinki area.
+                   Julia enthusiasts in Helsinki area.
                    """
-@def authors     = "Luca Ferranti"
+@def authors     = "Julia Users Helsinki"
 
 <!--  NAVBAR SPECS
   NOTE:
@@ -39,10 +39,10 @@ The latter allows you to plug in values that you would have defined here.
 @def docs_name = "Docs"
 
 @def add_nav_logo   = true
-@def nav_logo_path  = "/assets/logo.svg"
+@def nav_logo_path  = "/assets/juh-logo.svg"
 @def nav_logo_alt   = "Logo"
 @def nav_logo_style = """
-                      height:         25px;
+                      height:         60px;
                       padding-right:  10px;
                       """
 
@@ -73,14 +73,14 @@ The latter allows you to plug in values that you would have defined here.
   - github_repo:        path to the GitHub repo for the GitHub button
 -->
 @def use_header         = true
-@def use_header_img     = true
-@def header_img_path    = "url(\"assets/diagonal-lines.svg\")"
+@def use_header_img     = false
+@def header_img_path    = "assets/juh.svg"
 @def header_img_style   = """
-                          background-repeat: repeat;
+                          width: 100%;
                           """
 @def header_margin_top  = "55px" <!-- 55-60px ~ touching nav bar -->
 
-@def use_hero           = false
+@def use_hero           = true
 @def hero_width         = "80%"
 @def hero_margin_top    = "100px"
 
