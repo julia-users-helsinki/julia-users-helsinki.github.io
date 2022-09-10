@@ -1,6 +1,7 @@
 # Julia Users Group in Helsinki
 
-![](logo/juh.svg)
+![](page/_assets/juh.svg)
+
 Repository for the homepage of the [Julia Users Group in Helsinki area](https://julia-users-helsinki.github.io)
 
 ## Get involved
