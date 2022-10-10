@@ -66,7 +66,7 @@ end
         sethue("#FFE977")
         textwrap("Julia Users Helsinki", 60, O + (-60, -80), leading = 28)
     end
-end 400 160 "juh-og.svg"
+end 300 300 "juh-gh.svg"
 
 # 600 160 "juh.svg" for bigger banner
 # 300 160 "juh-logo.svg" for smaller logo in navbar
