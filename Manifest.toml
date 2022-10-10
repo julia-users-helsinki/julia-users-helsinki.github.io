@@ -106,9 +106,9 @@ uuid = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 
 [[Literate]]
 deps = ["Base64", "IOCapture", "JSON", "REPL"]
-git-tree-sha1 = "5b5ec7696d40868945c407f28a6672a230448b70"
+git-tree-sha1 = "1c4418beaa6664041e0f9b48f0710f57bff2fcbe"
 uuid = "98b081ad-f1c9-55d3-8b20-4c87d4299306"
-version = "2.13.4"
+version = "2.14.0"
 
 [[LiveServer]]
 deps = ["Crayons", "FileWatching", "HTTP", "MIMEs", "Pkg", "Sockets", "Test"]
@@ -161,9 +161,9 @@ version = "1.4.1"
 
 [[Parsers]]
 deps = ["Dates"]
-git-tree-sha1 = "3d5bf43e3e8b412656404ed9466f1dcbf7c50269"
+git-tree-sha1 = "595c0b811cf2bab8b0849a70d9bd6379cc1cfb52"
 uuid = "69de0a69-1ddd-5017-9359-2bf0b02dc9f0"
-version = "2.4.0"
+version = "2.4.1"
 
 [[Pkg]]
 deps = ["Dates", "LibGit2", "Libdl", "Logging", "Markdown", "Printf", "REPL", "Random", "SHA", "UUIDs"]
