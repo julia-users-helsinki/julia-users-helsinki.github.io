@@ -6,7 +6,7 @@
 
 Welcome to **Julia Users Helsinki**, a place to bring together people in Helsinki area who are interested in Julia. It doesn't matter if you are experienced in using Julia or just getting started. If are enthusiast, you are welcome to join. We aim at organizing regular meetups and activities.
 
-If you would like to stay up-to-date with upcoming Julia related events in Helsinki area, join the Julia Users Helsinki [mailing list](https://groups.google.com/g/julia-users-helsinki).
+**If you would like to stay up-to-date with upcoming Julia related events in Helsinki area, join the Julia Users Helsinki [mailing list](https://groups.google.com/g/julia-users-helsinki).**
 
 Check out our next get together on **October 26 2022 in Otaniemi**. Info belows.
 
@@ -22,7 +22,7 @@ Check out our next get together on **October 26 2022 in Otaniemi**. Info belows.
 
 \begin{section}{title="Upcoming Events"}
 
-Next meetup on **October 26 2022 in Otaniemi**, exact room to be defined. It will be a chill get-together to chat with other people interested in Julia, we could watch past JuliaCon videos together.
+Next meetup on **October 26 2022 in Otaniemi at 16:00**. The room is **U135a U7 PWC in Otakaari 1**. This will be a chill get-together to chat with other people interested in Julia, we could watch past JuliaCon videos together or plan upcoming events.
 
 There will be free coffee / tea available. To make sure it is enough for everyone, please register by **October 19 2022**.
 
