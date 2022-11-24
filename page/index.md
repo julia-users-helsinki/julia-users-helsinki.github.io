@@ -22,7 +22,7 @@ Check out our next get together on **November 30th 2022 in Otaniemi**. Info belo
 
 \begin{section}{title="Upcoming Events"}
 
-Next meetup on **November 30 2022 in Otaniemi at 15:00**. The room is **TBA**. 
+Next meetup on **November 30 2022 in Otaniemi at 15:00**. The room is **U135a U7 PWC in Otakaari 1**. 
 This will be the first of a "library development" series, where we will gradually develop a library together and add features step by step.
 During the first meeting, we will have a general overview of a Julia library structure and general development workflow. 
 As always, free of charge and refreshment included
