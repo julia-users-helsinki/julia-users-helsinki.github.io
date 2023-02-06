@@ -8,11 +8,11 @@ Welcome to **Julia Users Helsinki**, a place to bring together people in Helsink
 
 **If you would like to stay up-to-date with upcoming Julia related events in Helsinki area, join the Julia Users Helsinki [mailing list](https://groups.google.com/g/julia-users-helsinki).**
 
-Check out our next get together on **November 30th 2022 in Otaniemi**. Info belows.
+Check out our next get together on **February 22nd 2023 in Otaniemi**. Info belows.
 
 \begin{center}
 ~~~
-<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSdlSNgb5l3R2TnBUByvAqhfXZOjBnW8rNpMHM3-sMeNvjEsWw/viewform?usp=sf_link" target="_blank" rel="noreferrer noopener" role="button">Register</a>
+<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSf_l0ocGCw_fyNHN35wnAyUk7Vq7U9GtRcws7x386sgQ1jokA/viewform?usp=sf_link" target="_blank" rel="noreferrer noopener" role="button">Register</a>
 ~~~
 
 \end{center}
@@ -22,15 +22,25 @@ Check out our next get together on **November 30th 2022 in Otaniemi**. Info belo
 
 \begin{section}{title="Upcoming Events"}
 
-Next meetup on **November 30 2022 in Otaniemi at 15:00**. The room is **U135a U7 PWC in Otakaari 1**. 
-This will be the first of a "library development" series, where we will gradually develop a library together and add features step by step.
-During the first meeting, we will have a general overview of a Julia library structure and general development workflow. 
-As always, free of charge and refreshment included
-If you are coming, please register by Thursday 24th November with the following [registration form](https://docs.google.com/forms/d/e/1FAIpQLSdlSNgb5l3R2TnBUByvAqhfXZOjBnW8rNpMHM3-sMeNvjEsWw/viewform?usp=sf_link).
+Next meetup on **February 22nd 2023 at 15:30**. The room is **U135a U7 PWC in Otakaari 1**.
+
+The meetup topic will be **Metaprogramming 101: when, why and how**.
+
+Free of charge, but registration is required. Register via [this form](https://docs.google.com/forms/d/e/1FAIpQLSf_l0ocGCw_fyNHN35wnAyUk7Vq7U9GtRcws7x386sgQ1jokA/viewform?usp=sf_link).
+
+
 
 \end{section}
 
 \begin{section}{title="Past Events"}
+
+### November 2022
+
+Next meetup on **November 30 2022 in Otaniemi at 15:00**. The room is **U135a U7 PWC in Otakaari 1**. 
+This will be the first of a "library development" series, where we will gradually develop a library together and add features step by step.
+During the first meeting, we will have a general overview of a Julia library structure and general development workflow. 
+As always, free of charge and refreshment included.
+
 
 ### October 2022
 
