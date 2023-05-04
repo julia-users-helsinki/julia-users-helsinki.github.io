@@ -4,7 +4,7 @@
 
 \begin{section}{title="Welcome"}
 
-Welcome to **Julia Users Helsinki**, a place to bring together people in Helsinki area who are interested in Julia. It doesn't matter if you are experienced in using Julia or just getting started. If are enthusiast, you are welcome to join. We aim at organizing regular meetups and activities.
+Welcome to **Julia Users Helsinki**, a place to bring together people in Helsinki area who are interested in Julia. It doesn't matter if you are experienced in using Julia or just getting started. If you are an enthusiast, you are welcome to join. We aim at organizing regular meetups and activities.
 
 **If you would like to stay up-to-date with upcoming Julia related events in Helsinki area, join the Julia Users Helsinki [mailing list](https://groups.google.com/g/julia-users-helsinki).**
 

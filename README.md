@@ -6,7 +6,7 @@ Repository for the homepage of the [Julia Users Group in Helsinki area](https://
 
 ## Get involved
 
-We aim at organizing regular meetups and activities for the Julia enthusiasts in the Helsinki area. If iterested, get in touch by opening issues/pull requests or by writing a message in `helsinki-local` in the Julia slack.
+We aim at organizing regular meetups and activities for the Julia enthusiasts in the Helsinki area. If interested, get in touch by opening issues/pull requests or by writing a message in `helsinki-local` in the Julia slack.
 
 ## Credits
 
