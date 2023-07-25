@@ -8,57 +8,38 @@ Welcome to **Julia Users Helsinki**, a place to bring together people in Helsink
 
 **If you would like to stay up-to-date with upcoming Julia related events in Helsinki area, join the Julia Users Helsinki [mailing list](https://groups.google.com/g/julia-users-helsinki).**
 
-Check out our next get together on **February 22nd 2023 in Otaniemi**. Info belows.
+Check out our next get together on **August 30th 2023 in Otaniemi**!
 
+<!--
 \begin{center}
 ~~~
 <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSf_l0ocGCw_fyNHN35wnAyUk7Vq7U9GtRcws7x386sgQ1jokA/viewform?usp=sf_link" target="_blank" rel="noreferrer noopener" role="button">Register</a>
 ~~~
 
 \end{center}
-
+-->
 \end{section}
 
 
 \begin{section}{title="Upcoming Events"}
 
-Next meetup on **February 22nd 2023 at 15:30**. The room is **U135a U7 PWC in Otakaari 1**.
-
-The meetup topic will be **Metaprogramming 101: when, why and how**.
-
-Free of charge, but registration is required. Register via [this form](https://docs.google.com/forms/d/e/1FAIpQLSf_l0ocGCw_fyNHN35wnAyUk7Vq7U9GtRcws7x386sgQ1jokA/viewform?usp=sf_link).
-
-
+- **when**: 30th August 2023 16:00 -- 17:30
+- **where**: TBD
+- **what**: Greetings from JuliaCon! Couldnt you make it to JuliaCon? No worries, Luca Ferranti and Olli Herrala will bring some JuliaCon to Finland, summarizing the highlights and sharing their experience.
+- **how**: registration form coming soon
 
 \end{section}
 
 \begin{section}{title="Past Events"}
-
-### November 2022
-
-Next meetup on **November 30 2022 in Otaniemi at 15:00**. The room is **U135a U7 PWC in Otakaari 1**. 
-This will be the first of a "library development" series, where we will gradually develop a library together and add features step by step.
-During the first meeting, we will have a general overview of a Julia library structure and general development workflow. 
-As always, free of charge and refreshment included.
-
-
-### October 2022
-
-Next meetup on **October 26 2022 in Otaniemi at 16:00**. The room is **U135a U7 PWC in Otakaari 1**. This will be a chill get-together to chat with other people interested in Julia, we could watch past JuliaCon videos together or plan upcoming events.
-
-There will be free coffee / tea available. To make sure it is enough for everyone, please register by **October 19 2022**.
-
-### September 2022
-
-We will have our first meet up on **Wednesday 21 September 2022 in Otaniemi**. 
-
-The room is **U135a U7 PWC in Otakaari 1**.
-
-**Schedule**
-
-- **16:00 -- 16:15** Welcoming and introduction.
-- **16:15 -- 16:45**: Invited talk: [Fabricio Oliveira](https://www.aalto.fi/fi/ihmiset/fabricio-oliveira), Aalto University, *Teaching and research using Julia in the Gamma-opt research group*
-- **16:45 -- 17:30**: Free hang out, introducing each others, exchanging ideas interests etc. (coffee and cake available)
-- **17:30**: (Self-paid!!) dinner at Fat Lizard for those who want
+\begin{center}
+\begin{table}{class="table-stripped"}
+|**When**|**Topic**|**Speaker**|
+|:------:|:-------:|:---------:|
+|February 2023| Metaprogramming 101: when, why and how | Luca Ferranti|
+|November 2022| Introduction to package development in Julia | Luca Ferranti |
+|October 2022 | Informal chat and brainstorming of future events | |
+|September 2022 | Julia in the Gamma-Opt group | Fabricio Oliveira |
+\end{table}
+\end{center}
 
 \end{section}
