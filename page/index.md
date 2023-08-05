@@ -10,23 +10,22 @@ Welcome to **Julia Users Helsinki**, a place to bring together people in Helsink
 
 Check out our next get together on **August 30th 2023 in Otaniemi**!
 
-<!--
 \begin{center}
 ~~~
-<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSf_l0ocGCw_fyNHN35wnAyUk7Vq7U9GtRcws7x386sgQ1jokA/viewform?usp=sf_link" target="_blank" rel="noreferrer noopener" role="button">Register</a>
+<a class="btn btn-primary btn-lg" href="https://forms.gle/KWdo1PezasyTyHkq6" target="_blank" rel="noreferrer noopener" role="button">Register</a>
 ~~~
 
 \end{center}
--->
+
 \end{section}
 
 
 \begin{section}{title="Upcoming Events"}
 
-- **when**: 30th August 2023 16:00 -- 17:30
-- **where**: TBD
-- **what**: Greetings from JuliaCon! Couldnt you make it to JuliaCon? No worries, Luca Ferranti and Olli Herrala will bring some JuliaCon to Finland, summarizing the highlights and sharing their experience.
-- **how**: registration form coming soon
+- **when**: 30th August 2023 16:00 -- 17:30 + optional self-paid dinner at Fat Lizard at 18:00
+- **where**: Otaakaari 5, A111a Mordor, see room [on the map](https://usefulaaltomap.fi/#!/select/agrid-A108b~2FA111a)
+- **what**: **Greetings from JuliaCon!** Couldnt you make it to JuliaCon? No worries, Luca Ferranti and Olli Herrala will bring some JuliaCon to Finland, summarizing the highlights and sharing their experience.
+- **how**: register [here](https://forms.gle/KWdo1PezasyTyHkq6)
 
 \end{section}
 
