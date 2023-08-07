@@ -25,7 +25,7 @@ Check out our next get together on **August 30th 2023 in Otaniemi**!
 - **when**: 30th August 2023 16:00 -- 17:30 + optional self-paid dinner at Fat Lizard at 18:00
 - **where**: Otaakaari 5, A111a Mordor, see room [on the map](https://usefulaaltomap.fi/#!/select/agrid-A108b~2FA111a)
 - **what**: **Greetings from JuliaCon!** Couldnt you make it to JuliaCon? No worries, Luca Ferranti and Olli Herrala will bring some JuliaCon to Finland, summarizing the highlights and sharing their experience.
-- **how**: register [here](https://forms.gle/KWdo1PezasyTyHkq6)
+- **how**: register [here](https://forms.gle/KWdo1PezasyTyHkq6) **by August 23rd 2023**.
 
 \end{section}
 
