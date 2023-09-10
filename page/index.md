@@ -8,7 +8,7 @@ Welcome to **Julia Users Helsinki**, a place to bring together people in Helsink
 
 **If you would like to stay up-to-date with upcoming Julia related events in Helsinki area, join the Julia Users Helsinki [mailing list](https://groups.google.com/g/julia-users-helsinki).**
 
-Check out our next get together on **August 30th 2023 in Otaniemi**!
+Check out our next get together on **September 27th 2023 in Otaniemi**!
 
 \begin{center}
 ~~~
@@ -22,10 +22,10 @@ Check out our next get together on **August 30th 2023 in Otaniemi**!
 
 \begin{section}{title="Upcoming Events"}
 
-- **when**: 30th August 2023 16:00 -- 17:30 + optional self-paid dinner at Fat Lizard at 18:00
-- **where**: Otaakaari 5, A111a Mordor, see room [on the map](https://usefulaaltomap.fi/#!/select/agrid-A108b~2FA111a)
-- **what**: **Greetings from JuliaCon!** Couldnt you make it to JuliaCon? No worries, Luca Ferranti and Olli Herrala will bring some JuliaCon to Finland, summarizing the highlights and sharing their experience.
-- **how**: register [here](https://forms.gle/KWdo1PezasyTyHkq6) **by August 23rd 2023**.
+- **when**: 27th September 2023 16:00 -- 17:30
+- **where**: Somewhere in Aalto, Otaniemi. Exact location coming soon.
+- **what**: **Julia on CSC Supercomputers**, Jaan Tollander De Balsch
+- **how**: register [here]()
 
 \end{section}
 
@@ -34,6 +34,7 @@ Check out our next get together on **August 30th 2023 in Otaniemi**!
 \begin{table}{class="table-stripped"}
 |**When**|**Topic**|**Speaker**|
 |:------:|:-------:|:---------:|
+|August 2023| Greetings from JuliaCon | Luca Ferranti, Olli Herrala |
 |February 2023| Metaprogramming 101: when, why and how | Luca Ferranti|
 |November 2022| Introduction to package development in Julia | Luca Ferranti |
 |October 2022 | Informal chat and brainstorming of future events | |
