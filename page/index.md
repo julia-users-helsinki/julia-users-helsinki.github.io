@@ -12,7 +12,7 @@ Check out our next get together on **September 27th 2023 in Otaniemi**!
 
 \begin{center}
 ~~~
-<a class="btn btn-primary btn-lg" href="https://forms.gle/KWdo1PezasyTyHkq6" target="_blank" rel="noreferrer noopener" role="button">Register</a>
+<a class="btn btn-primary btn-lg" href="https://forms.gle/jFXn4w7nc1mgkxir5" target="_blank" rel="noreferrer noopener" role="button">Register</a>
 ~~~
 
 \end{center}
@@ -25,7 +25,7 @@ Check out our next get together on **September 27th 2023 in Otaniemi**!
 - **when**: 27th September 2023 16:00 -- 17:30
 - **where**: Somewhere in Aalto, Otaniemi. Exact location coming soon.
 - **what**: **Julia on CSC Supercomputers**, Jaan Tollander De Balsch
-- **how**: register [here]()
+- **how**: register [here](https://forms.gle/jFXn4w7nc1mgkxir5)
 
 \end{section}
 
