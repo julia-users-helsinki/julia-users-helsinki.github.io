@@ -23,7 +23,7 @@ Check out our next get together on **September 27th 2023 in Otaniemi**!
 \begin{section}{title="Upcoming Events"}
 
 - **when**: 27th September 2023 16:00 -- 17:30
-- **where**: Somewhere in Aalto, Otaniemi. Exact location coming soon.
+- **where**: Otakaari 1, room U119 DELOITTE. Check room location on [the map](https://usefulaaltomap.fi/#!/select/main-U119).
 - **what**: **Julia on CSC Supercomputers**, Jaan Tollander De Balsch
 - **how**: register [here](https://forms.gle/jFXn4w7nc1mgkxir5)
 
