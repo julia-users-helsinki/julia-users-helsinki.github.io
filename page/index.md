@@ -8,11 +8,11 @@ Welcome to **Julia Users Helsinki**, a place to bring together people in Helsink
 
 **If you would like to stay up-to-date with upcoming Julia related events in Helsinki area, join the Julia Users Helsinki [mailing list](https://groups.google.com/g/julia-users-helsinki).**
 
-Check out our next get together on **September 27th 2023 in Otaniemi**!
+Check out our next get together on **October 25th 2023**!
 
 \begin{center}
 ~~~
-<a class="btn btn-primary btn-lg" href="https://forms.gle/jFXn4w7nc1mgkxir5" target="_blank" rel="noreferrer noopener" role="button">Register</a>
+<a class="btn btn-primary btn-lg" href="https://forms.gle/S8qsdutQz6uf3HXHA" target="_blank" rel="noreferrer noopener" role="button">Register</a>
 ~~~
 
 \end{center}
@@ -22,10 +22,24 @@ Check out our next get together on **September 27th 2023 in Otaniemi**!
 
 \begin{section}{title="Upcoming Events"}
 
-- **when**: 27th September 2023 16:00 -- 17:30
-- **where**: Otakaari 1, room U119 DELOITTE. Check room location on [the map](https://usefulaaltomap.fi/#!/select/main-U119).
-- **what**: **Julia on CSC Supercomputers**, Jaan Tollander De Balsch
-- **how**: register [here](https://forms.gle/jFXn4w7nc1mgkxir5)
+### Building interactive dashboards with Genie
+
+#### 25th October 2023 at 16:00 EEST
+
+- **where**: Hybrid, follow on zoom or in Otakaari 1, U135a U7 PWC (see the room on the [map](https://usefulaaltomap.fi/#!/select/main-U135a))
+- **zoom link**: <https://uwasa.zoom.us/j/62430497067?pwd=TDRoelVTRjdtNW5Hd1ZKd3Q1Zndpdz09>
+  - ID: 624 3049 7067
+  - password: 852876
+- **Speaker**: Pere Giménez Febrer
+
+
+\begin{center}
+~~~
+<a class="btn btn-primary btn-lg" href="https://forms.gle/S8qsdutQz6uf3HXHA" target="_blank" rel="noreferrer noopener" role="button">Register</a>
+~~~
+
+\end{center}
+
 
 \end{section}
 
@@ -34,6 +48,7 @@ Check out our next get together on **September 27th 2023 in Otaniemi**!
 \begin{table}{class="table-stripped"}
 |**When**|**Topic**|**Speaker**|
 |:------:|:-------:|:---------:|
+|September 2023|Julia on CSC Supercomputers|Jaan Tolladner De Balsch|
 |August 2023| Greetings from JuliaCon | Luca Ferranti, Olli Herrala |
 |February 2023| Metaprogramming 101: when, why and how | Luca Ferranti|
 |November 2022| Introduction to package development in Julia | Luca Ferranti |
