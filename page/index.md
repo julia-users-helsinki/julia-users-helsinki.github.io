@@ -22,9 +22,7 @@ Check out our next get together on **December 13th 2023**!
 
 \begin{section}{title="Upcoming Events"}
 
-### Building interactive dashboards with Genie
-
-#### 13th December 2023: Introduction to Julia
+### Introduction to Julia
 
 Would you like to know more about Julia? Come to our particularly beginner friendly introduction!
 
