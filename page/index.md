@@ -12,7 +12,7 @@ Check out our next get together on **December 13th 2023**!
 
 \begin{center}
 ~~~
-<a class="btn btn-primary btn-lg" href="https://forms.gle/S8qsdutQz6uf3HXHA" target="_blank" rel="noreferrer noopener" role="button">Register</a>
+<a class="btn btn-primary btn-lg" href="https://forms.gle/ZMWeLp2JJNcJjfGU6" target="_blank" rel="noreferrer noopener" role="button">Register</a>
 ~~~
 
 \end{center}
@@ -28,13 +28,13 @@ Check out our next get together on **December 13th 2023**!
 
 Would you like to know more about Julia? Come to our particularly beginner friendly introduction!
 
-- **where**: TBD
-- **Speaker**: Luca Ferranti
+- **where**: Otakaari 1, room U9 (U271). see it on the [map](https://usefulaaltomap.fi/#!/select/main-U271)
+- **Speakers**: Luca Ferranti and Fabricio Oliveira
 
 
 \begin{center}
 ~~~
-<a class="btn btn-primary btn-lg" href="https://forms.gle/S8qsdutQz6uf3HXHA" target="_blank" rel="noreferrer noopener" role="button">Register</a>
+<a class="btn btn-primary btn-lg" href="https://forms.gle/ZMWeLp2JJNcJjfGU6" target="_blank" rel="noreferrer noopener" role="button">Register</a>
 ~~~
 
 \end{center}
