@@ -29,6 +29,7 @@ Check out our next get together on **December 13th 2023**!
 Would you like to know more about Julia? Come to our particularly beginner friendly introduction!
 
 - **where**: Otakaari 1, room U9 (U271). see it on the [map](https://usefulaaltomap.fi/#!/select/main-U271)
+- **when**: Wednesday 13th December, 16:00 -- 17:30
 - **Speakers**: Luca Ferranti and Fabricio Oliveira
 
 
