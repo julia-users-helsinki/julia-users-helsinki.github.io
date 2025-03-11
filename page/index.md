@@ -8,11 +8,11 @@ Welcome to **Julia Users Helsinki**, a place to bring together people in Helsink
 
 **If you would like to stay up-to-date with upcoming Julia related events in Helsinki area, join the Julia Users Helsinki [mailing list](https://groups.google.com/g/julia-users-helsinki).**
 
-Check out our next get together on **December 13th 2023**!
+Check out our next get together on **March 26th 2025**!
 
 \begin{center}
 ~~~
-<a class="btn btn-primary btn-lg" href="https://forms.gle/ZMWeLp2JJNcJjfGU6" target="_blank" rel="noreferrer noopener" role="button">Register</a>
+<a class="btn btn-primary btn-lg" href="https://forms.gle/cLsizZBZhi7qnZAB9" target="_blank" rel="noreferrer noopener" role="button">Register</a>
 ~~~
 
 \end{center}
@@ -22,22 +22,21 @@ Check out our next get together on **December 13th 2023**!
 
 \begin{section}{title="Upcoming Events"}
 
-### Introduction to Julia
+### Julia at Murata
 
-Would you like to know more about Julia? Come to our particularly beginner friendly introduction!
+Learn how Murata uses Julia in their work! **Register by TBA**
 
-- **where**: Otakaari 1, room U9 (U271). see it on the [map](https://usefulaaltomap.fi/#!/select/main-U271)
-- **when**: Wednesday 13th December, 16:00 -- 17:30
-- **Speakers**: Luca Ferranti and Fabricio Oliveira
+- **where**: Myllynkivenkuja 6, 01620 Vantaa
+- **when**: Wednesday 26th March, 15:30 -- 17:30
+- **Speakers**: Jaakko Ruohio
 
 
 \begin{center}
 ~~~
-<a class="btn btn-primary btn-lg" href="https://forms.gle/ZMWeLp2JJNcJjfGU6" target="_blank" rel="noreferrer noopener" role="button">Register</a>
+<a class="btn btn-primary btn-lg" href="https://forms.gle/cLsizZBZhi7qnZAB9" target="_blank" rel="noreferrer noopener" role="button">Register</a>
 ~~~
 
 \end{center}
-
 
 \end{section}
 
@@ -46,6 +45,7 @@ Would you like to know more about Julia? Come to our particularly beginner frien
 \begin{table}{class="table-stripped"}
 |**When**|**Topic**|**Speaker**|**Video**|
 |:------:|:-------:|:---------:|:-------:|
+| December 2025 | Introduciton to Julia | Luca Ferranti and Fabricio Oliveira ||
 |October 2023|Building interactive dashboards with Genie|Pere Giménez Febrer| [video](https://www.youtube.com/watch?v=31Bq-BOzqx4)|
 |September 2023|Julia on CSC Supercomputers|Jaan Tolladner De Balsch||
 |August 2023| Greetings from JuliaCon | Luca Ferranti, Olli Herrala ||
