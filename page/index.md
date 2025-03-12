@@ -51,7 +51,7 @@ Registration is required. Stay tuned for more information on how to register.
 \begin{table}{class="table-stripped"}
 |**When**|**Topic**|**Speaker**|**Video**|
 |:------:|:-------:|:---------:|:-------:|
-| December 2025 | Introduction to Julia | Luca Ferranti and Fabricio Oliveira ||
+| December 2024 | Introduction to Julia | Luca Ferranti and Fabricio Oliveira ||
 |October 2023|Building interactive dashboards with Genie|Pere Giménez Febrer| [video](https://www.youtube.com/watch?v=31Bq-BOzqx4)|
 |September 2023|Julia on CSC Supercomputers|Jaan Tolladner De Balsch||
 |August 2023| Greetings from JuliaCon | Luca Ferranti, Olli Herrala ||
