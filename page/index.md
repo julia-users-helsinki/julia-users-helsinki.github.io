@@ -8,7 +8,7 @@ Welcome to **Julia Users Helsinki**, a place to bring together people in Helsink
 
 **If you would like to stay up-to-date with upcoming Julia related events in Helsinki area, join the Julia Users Helsinki [mailing list](https://groups.google.com/g/julia-users-helsinki).**
 
-Check out our next get together on **March 26th 2025**!
+Check out our next get together on **April 9th 2025**!
 
 \begin{center}
 ~~~
@@ -22,12 +22,18 @@ Check out our next get together on **March 26th 2025**!
 
 \begin{section}{title="Upcoming Events"}
 
-### Julia at Murata
+### Discover Innovation at Murata
 
-Learn how Murata uses Julia in their work! **Register by TBA**
+[Murata](http://muratafinland.com/en/) designs, develops, and manufactures MEMS accelerometers, inclinometers, and gyro sensors in Vantaa, Finland.  We warmly invite you to join us for an exclusive on-site meetup where you will
+
+* learn how Murata uses Julia language in development of inertial sensors,
+* get a glimpse into the production on a window tour,
+* experience a product demonstration.
+
+Registration is required. Stay tuned for more information on how to register.
 
 - **where**: Myllynkivenkuja 6, 01620 Vantaa
-- **when**: Wednesday 26th March, 15:30 -- 17:30
+- **when**: Wednesday 9th April, 15:45 -- 18:00
 - **Speakers**: Jaakko Ruohio
 
 
@@ -45,7 +51,7 @@ Learn how Murata uses Julia in their work! **Register by TBA**
 \begin{table}{class="table-stripped"}
 |**When**|**Topic**|**Speaker**|**Video**|
 |:------:|:-------:|:---------:|:-------:|
-| December 2025 | Introduciton to Julia | Luca Ferranti and Fabricio Oliveira ||
+| December 2025 | Introduction to Julia | Luca Ferranti and Fabricio Oliveira ||
 |October 2023|Building interactive dashboards with Genie|Pere Giménez Febrer| [video](https://www.youtube.com/watch?v=31Bq-BOzqx4)|
 |September 2023|Julia on CSC Supercomputers|Jaan Tolladner De Balsch||
 |August 2023| Greetings from JuliaCon | Luca Ferranti, Olli Herrala ||
