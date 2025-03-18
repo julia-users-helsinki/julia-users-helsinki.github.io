@@ -8,11 +8,11 @@ Welcome to **Julia Users Helsinki**, a place to bring together people in Helsink
 
 **If you would like to stay up-to-date with upcoming Julia related events in Helsinki area, join the Julia Users Helsinki [mailing list](https://groups.google.com/g/julia-users-helsinki).**
 
-Check out our next get together on **December 13th 2023**!
+Check out our next get together on **April 9th 2025**!
 
 \begin{center}
 ~~~
-<a class="btn btn-primary btn-lg" href="https://forms.gle/ZMWeLp2JJNcJjfGU6" target="_blank" rel="noreferrer noopener" role="button">Register</a>
+<a class="btn btn-primary btn-lg" href="https://forms.gle/cLsizZBZhi7qnZAB9" target="_blank" rel="noreferrer noopener" role="button">Register</a>
 ~~~
 
 \end{center}
@@ -22,22 +22,27 @@ Check out our next get together on **December 13th 2023**!
 
 \begin{section}{title="Upcoming Events"}
 
-### Introduction to Julia
+### Discover Innovation at Murata
 
-Would you like to know more about Julia? Come to our particularly beginner friendly introduction!
+[Murata](http://muratafinland.com/en/) designs, develops, and manufactures MEMS accelerometers, inclinometers, and gyro sensors in Vantaa, Finland.  We warmly invite you to join us for an exclusive on-site meetup where you will
 
-- **where**: Otakaari 1, room U9 (U271). see it on the [map](https://usefulaaltomap.fi/#!/select/main-U271)
-- **when**: Wednesday 13th December, 16:00 -- 17:30
-- **Speakers**: Luca Ferranti and Fabricio Oliveira
+* learn how Murata uses Julia language in development of inertial sensors,
+* get a glimpse into the production on a window tour,
+* experience a product demonstration.
+
+Registration is required. **Please register by April 7th**
+
+- **where**: Myllynkivenkuja 6, 01620 Vantaa
+- **when**: Wednesday 9th April, 15:45 -- 18:00
+- **Speakers**: Jaakko Ruohio
 
 
 \begin{center}
 ~~~
-<a class="btn btn-primary btn-lg" href="https://forms.gle/ZMWeLp2JJNcJjfGU6" target="_blank" rel="noreferrer noopener" role="button">Register</a>
+<a class="btn btn-primary btn-lg" href="https://forms.gle/cLsizZBZhi7qnZAB9" target="_blank" rel="noreferrer noopener" role="button">Register</a>
 ~~~
 
 \end{center}
-
 
 \end{section}
 
@@ -46,6 +51,7 @@ Would you like to know more about Julia? Come to our particularly beginner frien
 \begin{table}{class="table-stripped"}
 |**When**|**Topic**|**Speaker**|**Video**|
 |:------:|:-------:|:---------:|:-------:|
+| December 2024 | Introduction to Julia | Luca Ferranti and Fabricio Oliveira ||
 |October 2023|Building interactive dashboards with Genie|Pere Giménez Febrer| [video](https://www.youtube.com/watch?v=31Bq-BOzqx4)|
 |September 2023|Julia on CSC Supercomputers|Jaan Tolladner De Balsch||
 |August 2023| Greetings from JuliaCon | Luca Ferranti, Olli Herrala ||
