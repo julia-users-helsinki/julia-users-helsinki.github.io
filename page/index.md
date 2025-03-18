@@ -30,7 +30,7 @@ Check out our next get together on **April 9th 2025**!
 * get a glimpse into the production on a window tour,
 * experience a product demonstration.
 
-Registration is required. Stay tuned for more information on how to register.
+Registration is required. **Please register by April 7th**
 
 - **where**: Myllynkivenkuja 6, 01620 Vantaa
 - **when**: Wednesday 9th April, 15:45 -- 18:00
