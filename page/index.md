@@ -8,7 +8,7 @@ Welcome to **Julia Users Helsinki**, a place to bring together people in Helsink
 
 **If you would like to stay up-to-date with upcoming Julia related events in Helsinki area, join the Julia Users Helsinki [mailing list](https://groups.google.com/g/julia-users-helsinki).**
 
-Check out our next get together on **May 28th 2025**!
+Check out our next get together on **June  11th 2025**!
 
 
 \end{section}
@@ -16,10 +16,10 @@ Check out our next get together on **May 28th 2025**!
 
 \begin{section}{title="Upcoming Events"}
 
-### Turing.jl
+### Probabilistic programming in Julia with Turing.jl
 
 - **where**: Otaniemi
-- **when**: Wednesday 28th May, 16:00 -- 17:00
+- **when**: June 11th May, 16:00 -- 17:00
 - **Speakers**: Martin Trapp
 
 \end{section}
