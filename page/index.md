@@ -16,7 +16,7 @@ Check out our next get together on **June  11th 2025**!
 
 \begin{section}{title="Upcoming Events"}
 
-### Probabilistic programming in Julia with Turing.jl
+### Probabilistic programming in Julia
 
 - **where**: Otaniemi
 - **when**: June 11th May, 16:00 -- 17:00
