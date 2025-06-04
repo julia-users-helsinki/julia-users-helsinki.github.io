@@ -18,7 +18,7 @@ Check out our next get together on **June  11th 2025**!
 
 ### Probabilistic programming in Julia
 
-- **where**: Otaniemi
+- **where**: Otakaari 1, room U141 U3
 - **when**: June 11th May, 16:00 -- 17:00
 - **Speakers**: Martin Trapp
 
