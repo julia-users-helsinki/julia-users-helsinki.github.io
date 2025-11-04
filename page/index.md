@@ -8,7 +8,7 @@ Welcome to **Julia Users Helsinki**, a place to bring together people in Helsink
 
 **If you would like to stay up-to-date with upcoming Julia related events in Helsinki area, join the Julia Users Helsinki [mailing list](https://groups.google.com/g/julia-users-helsinki).**
 
-Check out our next get together on **June  11th 2025**!
+Check out our next get together on **November 5th 2025**!
 
 
 \end{section}
@@ -16,11 +16,11 @@ Check out our next get together on **June  11th 2025**!
 
 \begin{section}{title="Upcoming Events"}
 
-### Probabilistic programming in Julia
+### Numerical Simulation of the Storage of Hydroen Gas Using Metal Organic Frameworks
 
-- **where**: Otakaari 1, room U141 U3
-- **when**: June 11th May, 16:00 -- 17:00
-- **Speakers**: Martin Trapp
+- **where**: Aalto University Computer Science Building, Konemiehentie 2, 02150 Espoo, room C206 (C-Wing)
+- **when**: November 5th 2025, 16:30 -- 18:00
+- **Speakers**: Domenico Lahaye
 
 \end{section}
 
@@ -29,6 +29,8 @@ Check out our next get together on **June  11th 2025**!
 \begin{table}{class="table-stripped"}
 |**When**|**Topic**|**Speaker**|**Video**|
 |:------:|:-------:|:---------:|:-------:|
+
+| June 2025 | Probabilistic programming in Julia | Martin Trapp | |
 | May 2025 | Discover Innovation at Murata | Jaakko Ruohio | | 
 | December 2024 | Introduction to Julia | Luca Ferranti and Fabricio Oliveira ||
 |October 2023|Building interactive dashboards with Genie|Pere Giménez Febrer| [video](https://www.youtube.com/watch?v=31Bq-BOzqx4)|
