@@ -19,7 +19,7 @@ Check out our next get together on **November 5th 2025**!
 ### Finite element modeling of storage of hydrogen gas
 
 - **where**: Aalto University Computer Science Building, Konemiehentie 2, 02150 Espoo, room C206 (C-Wing)
-- **when**: November 5th May, 16:30 -- 18:00
+- **when**: November 5th 2025, 16:30 -- 18:00
 - **Speakers**: Domenico Lahaye
 
 \end{section}
