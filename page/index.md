@@ -16,7 +16,7 @@ Check out our next get together on **November 5th 2025**!
 
 \begin{section}{title="Upcoming Events"}
 
-### Finite element modeling of storage of hydrogen gas
+### Numerical Simulation of the Storage of Hydroen Gas Using Metal Organic Frameworks
 
 - **where**: Aalto University Computer Science Building, Konemiehentie 2, 02150 Espoo, room C206 (C-Wing)
 - **when**: November 5th 2025, 16:30 -- 18:00
